@@ -1,2 +1,9 @@
 # AIP-A8-Project-Documentation
-It provide information about the project scope, findings, solutions, models, and finally cloud services that we can use for the related problem after doing research.
+Provide information regarding:-
+Project description.
+Project scope.
+Project problems.
+Project findings.
+Project solutions.
+Cloud services.
+Different cloud infrastructure model for the secure environment. 
